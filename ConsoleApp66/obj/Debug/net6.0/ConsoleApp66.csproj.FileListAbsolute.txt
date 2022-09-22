@@ -1,0 +1,15 @@
+D:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ConsoleApp66.csproj.AssemblyReference.cache
+D:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ConsoleApp66.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ConsoleApp66.AssemblyInfoInputs.cache
+D:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ConsoleApp66.AssemblyInfo.cs
+D:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ConsoleApp66.csproj.CoreCompileInputs.cache
+D:\PBO\ConsoleApp66\ConsoleApp66\bin\Debug\net6.0\ConsoleApp66.exe
+d:\PBO\ConsoleApp66\ConsoleApp66\bin\Debug\net6.0\ConsoleApp66.deps.json
+d:\PBO\ConsoleApp66\ConsoleApp66\bin\Debug\net6.0\ConsoleApp66.runtimeconfig.json
+D:\PBO\ConsoleApp66\ConsoleApp66\bin\Debug\net6.0\ConsoleApp66.dll
+D:\PBO\ConsoleApp66\ConsoleApp66\bin\Debug\net6.0\ConsoleApp66.pdb
+D:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ConsoleApp66.dll
+D:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\refint\ConsoleApp66.dll
+D:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ConsoleApp66.pdb
+d:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ConsoleApp66.genruntimeconfig.cache
+d:\PBO\ConsoleApp66\ConsoleApp66\obj\Debug\net6.0\ref\ConsoleApp66.dll
